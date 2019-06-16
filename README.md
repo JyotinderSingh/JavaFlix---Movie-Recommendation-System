@@ -31,4 +31,5 @@ The project also uses Apache Commons and edu.duke open source Java Libraries, wh
 #### Known Issues
 - The recommendation results sometimes also include movies that the user rated to get the recommendation in the first place 
 - Add scrolling to the recommendation window
+
 (easy fixes - contributions welcome)
