@@ -11,7 +11,15 @@ The user can also filter the results based on Year of Release, Running Time, Dir
 
 >Open the **TempLoader.java** file and run it
 
+#### Homepage
+<img src="https://i.imgur.com/rG2kGKk.png?1" alt="Homepage" width=400>
+
+
+#### Recommendations
+<img src="https://i.imgur.com/biHHfgK.png?1" alt="Recommendations" width=500>
+
 ---
+
 The recommendation engine uses an open source data set from the [Movie Tweetings project](https://github.com/sidooms/MovieTweetings) which is present in the 'data' Folder.
 
 The project also uses Apache Commons and edu.duke open source Java Libraries, which are also included in the source.
