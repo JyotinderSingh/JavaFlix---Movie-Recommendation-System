@@ -1,4 +1,4 @@
-# JavaFlix - Movie-Recommendation-System
+# JavaFlix - Movie Recommendation System
 ### A recommendation system, complete with UI built using Java in IntelliJ IDEA
 ---
 
