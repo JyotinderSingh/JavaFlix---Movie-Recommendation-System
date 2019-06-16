@@ -4,7 +4,9 @@
 
 The recommendation engine displays a list of 10 movies to the user and allows them to rate them, and then based on their ratings it displays the recommendations.
 
-The user can also filter the results based on Year of Release, Running Time, Directors, and Genre
+The user can also filter the results based on Year of Release, Running Time, Directors, and Genre.
+
+The UI adapts to the OS, the screenshots below were taken on Ubuntu 18.04, with [Canta theme](https://github.com/vinceliuice/Canta-theme)
 
 ### Steps to use:
 >**import** the project into IntelliJ and select 'Use existing sources' when prompted.
