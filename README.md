@@ -8,6 +8,8 @@ The user can also filter the results based on Year of Release, Running Time, Dir
 
 The UI adapts to the OS, the screenshots below were taken on Ubuntu 18.04, with [Canta theme](https://github.com/vinceliuice/Canta-theme)
 
+###### *This project was built for my 4th Semester Software Engineering Class at MIT, Manipal.*
+
 ### Steps to use:
 >**import** the project into IntelliJ and select 'Use existing sources' when prompted.
 
@@ -22,13 +24,23 @@ The UI adapts to the OS, the screenshots below were taken on Ubuntu 18.04, with 
 
 ---
 
+### Class Diagram
+Refer this diagram to understand how the different classes interact with each other, and how the interfaces are implemented. 
+The diagram was generated automoatically inside InterlliJ.
+
+*(Click on the image to enlarge it)*
+
+<img src="https://i.imgur.com/En7v2v3.jpg" alt="Recommendations" width=500>
+
+---
+
 The recommendation engine uses an open source data set from the [Movie Tweetings project](https://github.com/sidooms/MovieTweetings) which is present in the 'data' Folder.
 
 The project also uses Apache Commons and edu.duke open source Java Libraries, which are also included in the source.
 
 ---
 
-#### Known Issues
+### Known Issues
 - The recommendation results sometimes also include movies that the user rated to get the recommendation in the first place 
 - Add scrolling to the recommendation window
 
