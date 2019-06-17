@@ -6,7 +6,7 @@ The recommendation engine displays a list of 10 movies to the user and allows th
 
 The user can also filter the results based on Year of Release, Running Time, Directors, and Genre.
 
-The UI adapts to the OS, the screenshots below were taken on Ubuntu 18.04, with [Canta theme](https://github.com/vinceliuice/Canta-theme)
+The UI adapts to the OS and might look different on your system, the screenshots below were taken on Ubuntu 18.04, with [Canta theme](https://github.com/vinceliuice/Canta-theme)
 
 ###### *This project was built for my 4th Semester Software Engineering Class at MIT, Manipal.*
 
